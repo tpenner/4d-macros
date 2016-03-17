@@ -1,0 +1,6 @@
+{
+  "name": "4d-macros",
+  "tagline": "XML macros used in 4D",
+  "body": "# 4d-macros\r\n### XML macros used in 4D\r\n\r\n\r\nInstallation:\r\n\r\n1) Download the [latest macro file](https://github.com/tpenner/4d-macros/blob/master/Macros%20v2/aaMyMacros.xml)\r\n\r\n2) Place the aaMyMacros.xml file in to the following location:\r\n* Windows: `C:\\Users\\username\\AppData\\Roaming\\4D\\Macros v2`\r\n* Mac OS X: `/Users/username/Application Data/4D/Macros v2/`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
