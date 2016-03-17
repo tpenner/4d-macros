@@ -4,7 +4,7 @@
 
 Installation:
 
-1) Download the [latest macro file](https://github.com/tpenner/4d-macros/blob/master/Macros%20v2/aaMyMacros.xml)
+1) Download the [latest macro file](https://raw.githubusercontent.com/tpenner/4d-macros/master/Macros%20v2/aaMyMacros.xml)
 
 2) Place the aaMyMacros.xml file in to the following location:
 * Windows: `C:\Users\username\AppData\Roaming\4D\Macros v2`
